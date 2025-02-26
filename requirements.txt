@@ -1,5 +1,6 @@
 streamlit
 transformers
 torch
-deep-translator
+deep-translator==1.8.3
 reportlab
+
